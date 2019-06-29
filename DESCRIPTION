@@ -3,7 +3,7 @@ Title: Create Blank Rmarkdown Template
 Version: 1.0.0.0000
 Authors@R: person("Timing", "Liu", email = "liutiming@outlook.com", role = c("aut", "cre"))
 Description: This is a R package created on 20190627. Installing this package will create a Rmarkdown template that only contains the setting chunk from the default Rmarkdown file. This saves about 5 seconds for every Rmarkdown file created because one does not have to delete everything thereafter.
-Depends: R (>= 3.0.0)
+Depends: R (>= 3.5.3)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
